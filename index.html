@@ -11,24 +11,23 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <div class="container center">
+  <main class="container center">
     <h1>Star Wars Quote Generator</h1>
     <div>
-      <h3>Until that happens, you can enjoy some classic quotes!</h3>
-      <button class="btn" id="get-quote">Get a new quote</button>
-
-          <div class="card-panel blue lighten-5">
-            <span class="black-text" id="quote">
-              <!-- quotes het displayed here -->
-            </span>
-
+      <button class="btn black" id="get-quote">Get a new quote</button>
+      <div class="card-panel blue lighten-5">
+        <div class="black-text">
+          <div id="quote">
+            <!-- quotes het displayed here -->
+          </div>
+        </div>
       </div>
     </div>
-  </div><!-- /.container -->
-  <footer class="page-footer white">
-    <div class="footer-copyright teal">
+  </main><!-- /.container -->
+  <footer class="footer white">
+    <div class="footer-copyright black">
       <div class="container center">
-      Copyright &copy; Sylwia M. Bialczak
+      Copyright &copy; <a href="http://www.argoncode.com" class="text-white">Sylwia M. Bialczak</a>
       <script type="text/javascript">
         var year = new Date();
         document.write(year.getFullYear());
@@ -36,6 +35,8 @@
       </div>
     </div>
   </footer>
+
+
 
   <!-- Scripts -->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

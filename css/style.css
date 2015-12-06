@@ -1,8 +1,37 @@
+/* Background image */
 html {
   background: url(../img/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  color: white; /* text color */
+}
+
+a {
   color: white;
+}
+
+h1 {
+  margin-top: 25%;
+}
+
+#quote {
+  font-size: 1.2em;
+}
+.card-panel {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+/* Sticky footer */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
