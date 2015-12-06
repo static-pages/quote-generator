@@ -1,11 +1,11 @@
-/* Background image */
+/* Background image and font color */
 html {
   background: url(../img/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: white; /* text color */
+  color: white;
 }
 
 a {
@@ -19,6 +19,7 @@ h1 {
 #quote {
   font-size: 1.2em;
 }
+
 .card-panel {
   max-width: 600px;
   margin: auto;

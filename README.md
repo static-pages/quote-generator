@@ -1,6 +1,8 @@
 # README
-## Portfolio Parallax
-Portfolio Parallax is an example one-page website with parallax scroll.
+## Star Wars Quote Generator
+Star Wars Quote Generator is a small celebration of the New Star Wars VII. The Force Awakens.
+
+![](img/readme.png)
 
 ### Author / Contact
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/github_24_black.png) [github](http://www.github.com/argoncode)
@@ -11,11 +13,11 @@ Portfolio Parallax is an example one-page website with parallax scroll.
 1. HTML
 2. CSS
 3. [MaterializeCSS framework](http://www.materializecss.com)
-4. few lines of JavaScript / jQuery
+4. JavaScript / jQuery
 
 ## Copying / License
 MIT
 
 ## Bugs
 1. Report via pull request and/or comments.
-2. Current bugs are on [github issus](https://github.com/ArgonCode/portfolio-parallax/issues).
+2. Current bugs are on [github issus](https://github.com/ArgonCode/quote-generator/issues).
