@@ -77,7 +77,19 @@ var quotes = [
   "I have you now!",
   "I saw… a city in the clouds.",
   "Told you I did. Reckless is he. …Now, matters are worse.",
-  "- That boy is our last hope.<br>- No. There is another."];
+  "- That boy is our last hope.<br>- No. There is another.",
+  "So, who talks first? Do you talk first?",
+  "I know all about waiting. For my family. They’ll be back. Some day.",
+  "I am with the Resistance. This is what we look like. Some of us look different.",
+  "That one’s garbage!",
+  "The garbage will do.",
+  "Chewie. We’re home.",
+  "It’s true. All of it. The Dark Side. The Jedi. They’re real.",
+  "If you live long enough, you see the same eyes in different people.",
+  "Luke is a Jedi. You’re his father.",
+  "You will remove these restraints and leave this cell with the door open.",
+  "That’s not how The Force works!",
+  "Is there a garbage chute? Trash compactor?"];
 
   function generateQuote() {
     var quoteNumber = quotes.length;
