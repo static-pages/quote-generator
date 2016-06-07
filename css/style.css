@@ -1,6 +1,8 @@
 /* Background image and font color */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
 html {
-  background: url(../img/background.jpg) no-repeat center center fixed;
+  background: url(https://db.tt/wq1F9ZEX) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,12 +10,26 @@ html {
   color: white;
 }
 
+body, html
+{
+  font-family: "Droid Sans", arial, verdana, sans-serif;
+	font-weight: 700;
+	color: #ff6;
+}
+
 a {
   color: white;
 }
 
 h1 {
-  margin-top: 25%;
+  margin-top: 100px;
+  font-size: 4em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 0.8em;
+  letter-spacing: -0.05em;
+  color: #000;
+  text-shadow: -1px -1px 0 #ff6, 1px -1px 0 #ff6, -1px 1px 0 #ff6, 1px 1px 0 #ff6;
 }
 
 #quote {
