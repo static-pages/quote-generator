@@ -18,7 +18,6 @@ Star Wars Quote Generator is my geeky way to celebrate the new Star Wars movie. 
 1. HTML
 2. CSS
 3. [MaterializeCSS framework](http://www.materializecss.com)
-4. JavaScript / jQuery
 
 ## Copying / License
 MIT
