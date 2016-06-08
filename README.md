@@ -1,6 +1,6 @@
 # README
 ## Star Wars Quote Generator
-Star Wars Quote Generator is a small celebration of the New Star Wars VII. The Force Awakens.
+Star Wars Quote Generator is my geeky way to celebrate the new Star Wars movie. Quotes of course include best lines from Force Awakens. Judged by yours truly.
 
 ![](img/readme.png)
 
