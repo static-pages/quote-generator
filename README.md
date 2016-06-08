@@ -4,6 +4,11 @@ Star Wars Quote Generator is a small celebration of the New Star Wars VII. The F
 
 ![](img/readme.png)
 
+## Code, versions, demos
+1. Githb: [https://github.com/ArgonCode/quote-generator](https://github.com/ArgonCode/quote-generator)
+2. CodePen: [http://codepen.io/argon/full/jWPwwd](http://codepen.io/argon/full/jWPwwd)
+3. Amazon S3: [http://starwars.argoncode.xyz/ ](http://starwars.argoncode.xyz/ )
+
 ### Author / Contact
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/github_24_black.png) [github](http://www.github.com/argoncode)
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/twitter.png) [twitter](http://twitter.com/argoncode)
