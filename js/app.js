@@ -95,7 +95,13 @@ var quotes = [
     var quoteNumber = quotes.length;
     var random = Math.floor((Math.random() * quoteNumber) + 1);
     var quote = quotes[random];
+    var length = quote.length;
     $("#quote").html(quote);
+ 
+    if (length > 140) {
+      quote = quote.substring(0, 137) + "...";
+    }
+    
     $("#twitter").html(
       '<a class="btn block black" data-size="large" href="https://twitter.com/intent/tweet?text=' + quote  +'" target="_blank">Tweet Your Quote</a>'
     );
